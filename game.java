@@ -3,7 +3,7 @@
  ****************************************/ 
 import java.util.Scanner;
 
-public class Nim{
+public class game{
     public static void main(String[] args){
         
         System.out.println("Welcome to Nim death match!");
